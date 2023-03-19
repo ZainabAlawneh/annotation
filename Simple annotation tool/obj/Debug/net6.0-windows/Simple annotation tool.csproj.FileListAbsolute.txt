@@ -1,0 +1,40 @@
+D:\Codes\Simple annotation tool\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.exe
+D:\Codes\Simple annotation tool\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.deps.json
+D:\Codes\Simple annotation tool\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.runtimeconfig.json
+D:\Codes\Simple annotation tool\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.dll
+D:\Codes\Simple annotation tool\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.pdb
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.AssemblyReference.cache
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Classification.resources
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Detection.resources
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Form1.resources
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.GenerateResource.cache
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.AssemblyInfoInputs.cache
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.AssemblyInfo.cs
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.CoreCompileInputs.cache
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.dll
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\refint\Simple annotation tool.dll
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.pdb
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.genruntimeconfig.cache
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\ref\Simple annotation tool.dll
+D:\Codes\Simple annotation tool\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Properties.Resources.resources
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.exe
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.deps.json
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.runtimeconfig.json
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.dll
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\bin\Debug\net6.0-windows\Simple annotation tool.pdb
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.AssemblyReference.cache
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Classification.resources
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Detection.resources
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Form1.resources
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple_annotation_tool.Properties.Resources.resources
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.GenerateResource.cache
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.AssemblyInfoInputs.cache
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.AssemblyInfo.cs
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.csproj.CoreCompileInputs.cache
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.dll
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\refint\Simple annotation tool.dll
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.pdb
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\Simple annotation tool.genruntimeconfig.cache
+D:\Codes\Project 4 (Simple annotation tool) [Omar Shidaifat]\Simple annotation tool\obj\Debug\net6.0-windows\ref\Simple annotation tool.dll
