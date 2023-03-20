@@ -33,8 +33,7 @@ namespace Simple_annotation_tool
             public static int y1;
             public static int x2;
             public static int y2;
-            public static int tempx2, tempy2;
-
+           
             public static float X_relative_ratio, Y_relative_ratio;
 
             public static float Center_X;
@@ -128,8 +127,7 @@ namespace Simple_annotation_tool
 
         private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
         {
-            Globals.tempx2 = e.X;
-            Globals.tempy2 = e.Y;
+           
         }
 
 
